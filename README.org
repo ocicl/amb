@@ -1,0 +1,10 @@
+* amb
+
+An implementation of John McCarthy's ambiguous operator in portable Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/amb.git   |
+| commit  | {"messa  |
+| systems | amb |
+|---------+-------------------------------------------|
+
