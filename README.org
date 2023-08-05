@@ -4,7 +4,7 @@ An implementation of John McCarthy's ambiguous operator in portable Common Lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/phoe/amb.git   |
-| commit  | {"messa  |
+| commit  | c6b1885  |
 | systems | amb |
 |---------+-------------------------------------------|
 
